@@ -1,6 +1,6 @@
 # {{ cookiecutter.project_name }}
 
-{{ coookiecutter.project_description }}
+{{ cookiecutter.project_description }}
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
