@@ -2,5 +2,9 @@
     "project_name": "React Next Tailwind Shadcn Supabase PWA Umami",
     "project_description": "An app to list amazing things",
     "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
-    "author": "Karan Rajpal"
+    "author": "Karan Rajpal",
+    "umami_script_url": "http://localhost:3000/script.js",
+    "umami_website_id": "",
+    "supabase_project_url": "",
+    "supabase_api_key": ""
 }

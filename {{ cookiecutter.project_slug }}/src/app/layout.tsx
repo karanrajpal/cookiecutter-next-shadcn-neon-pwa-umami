@@ -3,6 +3,7 @@ import { Inter } from "next/font/google";
 import { ThemeProvider } from "@/components/theme-provider";
 import "./globals.css";
 import { PWAWrapper } from "@/components/pwa-wrapper";
+import Script from "next/script";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -21,6 +22,7 @@ export default function RootLayout({
 }>) {
     return (
         <html lang="en">
+            <Script async src="{{ cookiecutter.umami_script_url }}" data-website-id="{{ cookiecutter_umami_website_id }}"></Script>
             <body className={inter.className}>
                 <PWAWrapper>
                     <ThemeProvider

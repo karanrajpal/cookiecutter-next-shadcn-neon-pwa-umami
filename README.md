@@ -28,6 +28,7 @@ After that, run the following command and then follow the prompts
 - Dark Mode theme + toggle ready to go
 - Metadata for SEO
 - Custom Font has been setup
+- Lucide Icons from https://lucide.dev/guide/packages/lucide-react
 - README.md with instructions on usage and deployment
 - Installable PWA
 - Umami Analytics with instructions in the generated Readme
