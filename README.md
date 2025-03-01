@@ -18,7 +18,6 @@ You need to setup Supabase first so you can pass the Supabase project's informat
 
 
 After that, run the following command and then follow the prompts
-
 `cookiecutter https://github.com/karanrajpal/cookiecutter-next-shadcn-supabase-pwa-umami`
 
 ## Features

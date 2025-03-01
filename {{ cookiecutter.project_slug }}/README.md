@@ -1,4 +1,7 @@
 # {{ cookiecutter.project_name }}
+
+{{ coookiecutter.project_description }}
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -25,6 +28,9 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 Shadcn lets you add components that you want to use one-by-one instead of installing all the packages. The code is then installed into the `components/ui` folder as opposed to `node_modules` and you can import it from anywhere.
 
 See [this link](https://ui.shadcn.com/docs/components/input) for how to add an `Input` component
+
+### PWA Icons
+Update app icons in `public/` in place of `sample-192x192.png` and `sample-512x512.png` and then update `manifest.ts` with the new icons.
 
 ## Learn More
 
