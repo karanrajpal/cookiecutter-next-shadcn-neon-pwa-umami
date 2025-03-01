@@ -32,6 +32,9 @@ See [this link](https://ui.shadcn.com/docs/components/input) for how to add an `
 ### PWA Icons
 Update app icons in `public/` in place of `sample-192x192.png` and `sample-512x512.png` and then update `manifest.ts` with the new icons.
 
+### Lucide Icons
+Icons are sourced from https://lucide.dev/icons/
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
