@@ -22,7 +22,7 @@ export default function RootLayout({
 }>) {
     return (
         <html lang="en">
-            <Script async src="{{ cookiecutter.umami_script_url }}" data-website-id="{{ cookiecutter_umami_website_id }}"></Script>
+            <Script async src="{{ cookiecutter.umami_script_url }}" data-website-id="{{ cookiecutter.umami_website_id }}"></Script>
             <body className={inter.className}>
                 <PWAWrapper>
                     <ThemeProvider
