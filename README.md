@@ -1,8 +1,8 @@
 # Next.js Typescript Cookiecutter with Shadcn, Supabase and Umami Analytics Support
 This cookiecutter lets you hit the ground running for your next frontend project.
 
-It is a PWA installable app with React, Nextjs, Typescript, Tailwind CSS and ShadCN UI with one component installed.
-It also includes connection to your own Supabase DB and Umami Analytics (connected to another Supabase instance)
+It is a PWA installable app with React, Nextjs, Typescript, Tailwind CSS, Framer Motion and ShadCN UI with one component installed.
+It also includes connection to your own Supabase DB and an Umami Analytics instance
 
 ## Usage
 To get started, make sure [cookiecutter is installed](https://cookiecutter.readthedocs.io/en/latest/installation.html#install-cookiecutter) on your system.
@@ -25,6 +25,7 @@ After that, run the following command and then follow the prompts
 - Tailwind enabled
 - Typescript
 - Shadcn initialized
+- Framer Motion
 - Dark Mode theme + toggle ready to go
 - Metadata for SEO
 - Custom Font has been setup

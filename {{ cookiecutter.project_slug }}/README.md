@@ -24,7 +24,7 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Adding Shadcn components
+### Adding Shadcn components
 Shadcn lets you add components that you want to use one-by-one instead of installing all the packages. The code is then installed into the `components/ui` folder as opposed to `node_modules` and you can import it from anywhere.
 
 See [this link](https://ui.shadcn.com/docs/components/input) for how to add an `Input` component
@@ -34,6 +34,10 @@ Update app icons in `public/` in place of `sample-192x192.png` and `sample-512x5
 
 ### Lucide Icons
 Icons are sourced from https://lucide.dev/icons/
+
+### Framer Motion
+Framer Motion for React allows you to introduce animations, transitions and motion
+Refer to [this link](https://blog.stackademic.com/next-js-13-framer-motion-page-transitions-b2d58658410a) as an example and the [official docs](https://examples.motion.dev/)
 
 ## Learn More
 
