@@ -1,5 +1,5 @@
 {
-    "project_name": "React Next Tailwind Shadcn Supabase PWA Umami",
+    "project_name": "React Next Tailwind Shadcn Neon PWA Umami",
     "project_description": "An app to list amazing things",
     "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
     "author": "Karan Rajpal",
