@@ -12,9 +12,8 @@ To install, you can `brew install cookiecutter`
 You need to setup Neon first so you can pass the Neon project's information while creating your codebase.
 
 1. Login to Neon (Create an account if needed)
-2. Create a new project [here](https://supabase.com/dashboard/projects) OR use an existing project with tables
-3. Keep track of your DB password somewhere safe.
-4. Wait for the initialization and then go to Settings -> API and be ready to copy over values from the page into the cookiecutter init script next.
+2. Create a new project [here](https://console.neon.tech/app/projects) OR use an existing project with tables
+3. Go to `Dashboard` > `Connect to your Database` > click `Connect` and copy the `Database URL` value in the `.env` tab
 
 
 After that, run the following command and then follow the prompts

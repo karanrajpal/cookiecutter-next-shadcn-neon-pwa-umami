@@ -5,6 +5,5 @@
     "author": "Karan Rajpal",
     "umami_script_url": "http://localhost:3000/script.js",
     "umami_website_id": "",
-    "supabase_project_url": "",
-    "supabase_api_key": ""
+    "neon_database_url": ""
 }
